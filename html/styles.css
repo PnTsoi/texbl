@@ -1,0 +1,40 @@
+.main_title {
+    height: 50px;
+    background-color: #393424;
+    text-align: left;
+    color: blue;
+    font-size: 30px;
+}
+.top_nav {
+    background-color: #393424;
+    overflow: hidden;
+}
+   
+.top_nav a {
+    float: left;
+    background-color: #37718e;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.top_nav a:hover {
+    background-color: #493548;
+    color: black;
+}
+
+.top_nav a.active {
+    background-color: #d4e4bc;
+    color: black;
+}
+
+.top_nav input.input_bar {
+    border-radius: 12px;
+    text-align: center;
+    float: right;
+    height: 25px;
+    width: 700px;
+    
+}
