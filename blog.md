@@ -3,7 +3,9 @@
 A course will be a pipeline of posts. Readers can follow each posts like a lesson and once they finished all the posts, they will read up all of what that creator has to offer. Before joining a pipeline, there will be prerequisites recommending other pipelines by other creators so that readers can prepare the necessary knowledge. Homeworks will be provided by the creators. Discussion sections are online 24/7 group chat that people can ask for help for specific topics and are answered by others.
 
 
-Creators create based on the interest of sharing knowledge, makng extra money (thru donations, the platform will be free of charge), relearing knowledge, etc.
+Creators create based on the interest of sharing knowledge, makng extra money (thru donations, the platform will be free of charge), relearning knowledge, etc.
 
 
-
+8/4/2022: I'm starting to learn js and react. Tidy up and add the structure for the index.html.
+    I want the main feed to have a feed where the users can see what their creators published/post. Also on the left hand side will be a nav column for subscribed pipelines, creators, HWs.
+    Top will be a nav bar for user profile, home, search engine, etc.
